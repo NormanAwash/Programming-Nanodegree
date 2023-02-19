@@ -1,7 +1,7 @@
 body {
     width: 330px;
     display: flex;
-    
+    align-items: center;
 }
 
 #container {
@@ -17,6 +17,7 @@ img {
 }
 
 .interesting-fact{
+    padding: 10px;
     font-style: italic;
 }
 
@@ -32,4 +33,10 @@ li {
 
 span {
     font-weight: bold;
+}
+
+.text {
+    padding: 10px;
+	hyphens: auto; 
+	text-align: justify
 }
