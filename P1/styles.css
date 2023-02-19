@@ -1,15 +1,13 @@
 body {
     width: 330px;
-    border: 1px solid #DCDCDC;
-    box-shadow: 6px 6px 1px 0px #EBEBEB;
-    padding-right: .2em;
-    padding-left: .7em;
-    padding-bottom: .6em;
+    display: flex;
+    
 }
 
 #container {
     border: 2px solid grey;
     padding: 20px;
+    box-shadow: 6px 6px 1px 0px #EBEBEB;
 }
 
 img {
